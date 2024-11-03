@@ -32,4 +32,4 @@ Dataset: https://www.kaggle.com/datasets/mariusborel/electric-vhicule-population
 
 
 ## Description 
-
+My project analzyes specific data from a dataset to determine which city in the state of Washington is the most enviromentally friendly based on the number of Electric vehicles. I have selected a data set that had a total of 205,000 registered electric cars in the state, but narrowed it down to the first 10,000 in the data set. The first 10,000 results included the location (city), the Model Year of the car, the brand of the car (make), the Model of the car (brand) and the Electric Range it had. We had to sort the data to find car models that were older than 5 years old by using loops.  My project achieved its answer to the userStory and was able to do this with multiple 1D arrays, methods and constructors. 
