@@ -15,22 +15,16 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
-
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+As an environmental activist, I want to analyze different electric cars in the state of Washington based on their model, year and electric range so that I can see which city is the most environmentally friendly.
 
 ## Dataset 
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
-
-Example: 
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: https://www.kaggle.com/datasets/mariusborel/electric-vhicule-population-data
+- **City** (String) - name of the city. 
+- **Model Year ** (int) - The year the car was released . 
+- **Make** (String ) - The brand of the car. 
+- **Model** (String) - The type of car. 
+- **Electric Range** (int) - The distance the car can travel. 
 
 ## UML Diagram 
 
