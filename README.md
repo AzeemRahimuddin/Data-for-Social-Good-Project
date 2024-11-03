@@ -30,7 +30,8 @@ Dataset: https://www.kaggle.com/datasets/mariusborel/electric-vhicule-population
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+<img width="1013" alt="Screenshot 2024-11-02 at 9 58 01 PM" src="https://github.com/user-attachments/assets/0ed18d05-5c2a-4c8d-b426-40631b358531">
+
 
 ## Description 
 
